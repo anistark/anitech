@@ -8,5 +8,24 @@
     "stylus": "*",
     "nib": "*"
   },
-  "main": "app.js"
+  "main": "app.js",
+  "description": "anitech =======",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anistark/anitech.git"
+  },
+  "keywords": [
+    "anitech",
+    "node"
+  ],
+  "author": "Kumar Anirudha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anistark/anitech/issues"
+  },
+  "homepage": "https://github.com/anistark/anitech"
 }
