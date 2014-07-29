@@ -28,4 +28,8 @@
     "url": "https://github.com/anistark/anitech/issues"
   },
   "homepage": "https://github.com/anistark/anitech"
+  {
+  "engines": {
+    "node": "0.10.x"
+  }
 }
