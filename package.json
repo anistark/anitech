@@ -3,10 +3,11 @@
   "version": "0.0.1",
   "private": "true",
   "dependencies": {
-    "express": "3.0.0alpha4",
+    "express": "^3.0.0-alpha4",
     "jade": "*",
-    "stylus": "*",
-    "nib": "*"
+    "logfmt": "^1.1.2",
+    "nib": "*",
+    "stylus": "*"
   },
   "main": "app.js",
   "description": "anitech =======",
@@ -27,8 +28,7 @@
   "bugs": {
     "url": "https://github.com/anistark/anitech/issues"
   },
-  "homepage": "https://github.com/anistark/anitech"
-  ,
+  "homepage": "https://github.com/anistark/anitech",
   "engines": {
     "node": "0.10.x"
   }
